@@ -54,7 +54,7 @@ make run
 ```
 e acesse: http://127.0.0.1:8000/docs
 
-# FEITO! :white_check_mark:
+
 # Desafio Final
     - adicionar query parameters nos endpoints
         - atleta
@@ -71,6 +71,9 @@ e acesse: http://127.0.0.1:8000/docs
         - status_code: 303
     - Adicionar paginação utilizando a lib: fastapi-pagination
         - limit e offset
+
+# FEITO! :white_check_mark:
+        
 # Referências
 
 FastAPI: https://fastapi.tiangolo.com/
