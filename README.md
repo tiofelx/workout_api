@@ -54,6 +54,7 @@ make run
 ```
 e acesse: http://127.0.0.1:8000/docs
 
+# FEITO! :white_check_mark:
 # Desafio Final
     - adicionar query parameters nos endpoints
         - atleta
